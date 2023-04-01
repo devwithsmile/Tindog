@@ -156,6 +156,9 @@ p{
 
 .row{
     padding-bottom: 3%;
+   position: relative;
+   right: 1%;
+   
 }
 
 
@@ -191,6 +194,8 @@ p{
     position: relative;
     right: 40%;
 }
+
+
 
 @media (max-width:990px) {
     
