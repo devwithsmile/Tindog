@@ -1,0 +1,222 @@
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+
+}
+
+
+h2{
+    padding-bottom: 3%;
+}
+
+p{
+    color: #BfBfBf;
+}
+
+
+
+
+#title{
+    background-color: #ff4c68;
+    color: white;
+    padding-bottom: 3%;
+   }
+
+#section-text{
+    padding-top: 8.5rem;
+}
+
+
+#features{
+    
+    font-family:    ;
+    padding: 7% 15%;
+    position: relative;
+    z-index: 2;
+    background-color: white;
+   
+}
+
+#testimonials{
+    background-color: #ff4c68;
+    padding: 100px 80px 140px 80px;
+    color: white;
+}
+
+#press{
+    background-color: #ff4c68;
+    padding: 0px 10px 110px 10px;
+    width: auto;
+}
+
+#cta{
+    background-color: #ff4c68;
+    
+    padding: 1%;
+    text-align: center;
+
+}
+
+#footer{
+    background-color: #fff;
+    font-family: Monse;
+    padding: 1%;
+}
+
+
+
+
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.download-button{
+    margin: 5% 6% 5% 0;
+}
+
+
+.title-image{
+   width: 35%;
+   transform: rotate(25deg);
+   position: absolute;
+   padding: 3% 0% 0% 13%;
+   
+}
+
+.fa-solid{
+    color: #cf8172;
+    
+    
+    margin: auto;
+    padding: auto;
+    
+    position: relative;
+    left: 5rem;
+
+}
+
+.fa-solid:hover{
+    color: #ff4c68;
+}
+
+
+
+.ftext{
+    position: relative;
+    left: 1.5rem;
+}
+
+
+
+.fb{
+    text-align: center;
+    padding: 5%;
+}
+
+.fa-4x{
+    padding-bottom: 8%;
+    margin-bottom:1% ;
+}
+
+.profilepic{
+    border-radius: 150px;
+    width: 12%;
+    padding-right: 1%;
+}
+
+.dogtext{
+    font-family: 'Montserrat-Bold';
+    font-size: 3rem;
+    line-height: 1.5;
+    width: 67%;
+    text-align: center;
+}
+
+.press-img{
+    width: 12%;
+    position: relative;
+    left: 24%;
+    
+    padding: 11px;
+}
+
+.carousel-inner{
+    position: relative;
+    left: 7%;
+    padding-left: 180px;
+}
+
+
+
+.card{
+    margin-left: 10%;
+}
+
+.row{
+    padding-bottom: 3%;
+}
+
+
+.card{
+    text-align: center;
+}
+
+.social-media-icons{
+    padding: 4%;
+}
+
+.cta-heading{
+    padding-top: 3%;
+    font-family: 'Montserrat-Black',sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+   
+    color: #fff;
+
+}
+
+.footer-icons{
+    width: 100%;
+    padding-left: 50%;
+}
+
+.copyright{
+    position: relative;
+    right: 90%;
+}
+
+.footer-span{
+    position: relative;
+    right: 40%;
+}
+
+@media (max-width:990px) {
+    
+   i{
+    padding-right: 90px;
+   }
+   
+    #title{
+        text-align: center;
+
+    }
+
+    #section-text{
+        padding-top: 1rem;
+    }
+
+    .title-image{
+        position: static;
+        transform: rotate(0);
+        width: 80%;
+    }
+
+    #features{
+        text-align: center;
+    }
+
+    
+
+}
